@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScoreKeeper App</string>
+    <string name="plus_sign_string_res">+</string>
+    <string name="minus_sign_string_res">-</string>
+    <string name="team_2_string_res">Team 2</string>
+    <string name="team_1_string_resource">Team 1</string>
+    <string name="defautlt_score_string_res">0</string>
+</resources>
